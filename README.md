@@ -22,6 +22,10 @@ To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to 
 
 ## Program:
 ```
+##Program developed by:Sangeetha.K
+##Reg.No:212221230085
+```
+```
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
